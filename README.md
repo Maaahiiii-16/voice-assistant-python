@@ -30,14 +30,23 @@ This project is a **Python-based AI Voice Assistant** that can perform various t
 
 ---
 
-## 📂 Project Structure
-
-```
-voice-assistant-python/
-│── main.py
-│── requirements.txt
-│── README.md
-```
+## 📂 PLibraries required to be installed using Pip Command:
+	
+	1.Json
+	
+	2.request
+	
+	3.Speech recognition
+	
+ 	4.Pyttsx3
+	
+	5.Wikipedia
+	
+	6.Ecapture
+	
+	7.time
+	
+	8.Wolfram Alpha
 
 ---
 
